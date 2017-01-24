@@ -7,7 +7,7 @@ The Sierpinski Triangle is a fractal. According to [Wikipedia](http://en.wikiped
 
 Start with any triangle, though the usual Sierpinski triangle uses an equilateral triangle. Shrink the triangle to ½ height and ½ width, make three copies, and position the three shrunken triangles so that each triangle touches the two other triangles at a corner (image 2). Note the emergence of the central hole - because the three shrunken triangles can between them cover only 3/4 of the area of the original. (Holes are an important feature of Sierpinski's triangle.) Repeat step 2 with each of the smaller triangles (image 3 and so on).
 
-Suggested steps to complete this assignment:
+Suggested steps to complete this assignment: 
 ----------------------------------------------
 1. You may find slides #1 - 39 of the [Recursion powerpoint](https://drive.google.com/open?id=0Bz2ZkT6qWPYTdFNMNkthaG15X1k) and  the [Recursion 1 worksheet](https://drive.google.com/open?id=0Bz2ZkT6qWPYTN2U4M2E5ZTQtMGFhMC00ZDY0LThiMGItODMwYzBiMGFiODdi) helpful.
 2. Fork and clone down this repository (Optional: Create your own repository from scratch. Look at the bottom of this page for instructions)
