@@ -20,6 +20,7 @@ public void sierpinski(int x, int y, int len)
 	else
 	{
 		sierpinski(x, y, len/2);
-		len--;
+		sierpinski(x + len/2, y , len/2);
+		sierpinski(x + len/4, y - len/2, len/2 );
 	}
 }
