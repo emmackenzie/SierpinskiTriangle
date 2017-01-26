@@ -15,14 +15,14 @@ public void mouseClicked()//optional
 	if(mouseButton == LEFT)
 	{
 		tsize = tsize+1;
-			if(tsize > 10)
+			if(tsize > 8)
 				tsize=1;
 	}
 	if (mouseButton == RIGHT)
 	{
 		tsize = tsize-1;
 		if(tsize<1)
-			tsize = 10;
+			tsize = 8;
 	}
 
 	//if(tsize == 1)
